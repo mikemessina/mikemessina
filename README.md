@@ -4,7 +4,7 @@
 - ☁️ 
 - 💪
 - ✝️
-- 🇺🇸 
+- 🇺🇲
 - 🌱 I’m currently learning Docker, GitHub Actions, and expanding my K8s knowledge.
 
 Thanks for visiting!

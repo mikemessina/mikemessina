@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on all things Azure, IaC, and DevOps
+- 🌱 I’m currently learning Docker, GitHub Actions, and expanding my K8s knowledge.
+
+Thanks for visiting!
+
+
+
 <!--
 **mikemessina/mikemessina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

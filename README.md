@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on all things Azure, IaC, and DevOps
+- :octocat: I’m currently working on all things Azure, IaC, and DevOps
 - 🌱 I’m currently learning Docker, GitHub Actions, and expanding my K8s knowledge.
 
 Thanks for visiting!
@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->

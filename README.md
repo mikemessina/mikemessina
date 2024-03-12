@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - :octocat: I’m currently working on all things Azure, IaC, and DevOps
-- :azure:
-- :terraform: 
+- ☁️ 
+- 💪
+- ✝️
+- 🇺🇸 
 - 🌱 I’m currently learning Docker, GitHub Actions, and expanding my K8s knowledge.
 
 Thanks for visiting!
